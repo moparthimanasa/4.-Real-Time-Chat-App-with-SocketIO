@@ -158,6 +158,7 @@ Emojis and reactions
 Group chat creation
 
 Dark mode UI
+
 # 🎯 Output Preview
 
 Here’s a look at the real-time chat app in action:
