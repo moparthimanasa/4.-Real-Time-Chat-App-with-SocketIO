@@ -158,10 +158,24 @@ Emojis and reactions
 Group chat creation
 
 Dark mode UI
-# Output
-**login for chat**
+# 🎯 Output Preview
+
+Here’s a look at the real-time chat app in action:
+
+**🔐 User Login Page**
+
+Users must log in to access chat features. Secure authentication is handled using JWT.
 
 ![Image](https://github.com/user-attachments/assets/9c351a1f-aa72-462a-81e5-c5a8261a2867)
-**it shows if anybody joins the room for chat and you can send messages**
+
+**💬 Chat Room with Join Notifications**
+
+Once logged in, users can join public chat rooms. Join messages are displayed in real time, and users can start sending messages instantly.
 
 ![Image](https://github.com/user-attachments/assets/7076377c-811f-47ba-976d-f2147f474321)
+
+**👥 Real-Time Conversation View**
+
+Shows real-time messaging between users, typing indicators, and online user tracking. The right side displays the list of online users in the chat room.
+
+![Image](https://github.com/user-attachments/assets/52ee85a9-a401-4c09-a3e0-b0709b9a8350)
