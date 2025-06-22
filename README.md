@@ -179,4 +179,4 @@ Once logged in, users can join public chat rooms. Join messages are displayed in
 
 Shows real-time messaging between users, typing indicators, and online user tracking. The right side displays the list of online users in the chat room.
 
-![Image](https://github.com/user-attachments/assets/52ee85a9-a401-4c09-a3e0-b0709b9a8350)
+![Image](https://github.com/user-attachments/assets/f3062560-38dc-453d-a665-094bd2625494)
