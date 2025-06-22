@@ -93,7 +93,7 @@ REALTIME_CHAT_APP/
 
 **1. Clone the Repository**
 
-git clone 
+git clone https://github.com/moparthimanasa/Real-Time-Chat-App-with-SocketIO.git
 
 cd realtime-chat-app
 
