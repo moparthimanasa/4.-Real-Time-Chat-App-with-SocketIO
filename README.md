@@ -158,4 +158,7 @@ Emojis and reactions
 Group chat creation
 
 Dark mode UI
-
+# Output
+**login for chat**
+![Image](https://github.com/user-attachments/assets/9c351a1f-aa72-462a-81e5-c5a8261a2867)
+**it shows if anybody joins the room for chat and you can send messages**
